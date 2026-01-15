@@ -1,0 +1,20 @@
+Dataset Name: Students Performance in Exams
+
+Overview:
+This dataset contains information about students and their performance in math, reading, and writing exams.
+
+Features:
+Numerical: Math Score, Reading Score, Writing Score
+Categorical: Gender, Race/Ethnicity, Parental Education, Lunch, Test Preparation
+
+Target Variable:
+Math Score
+
+Data Quality:
+There are no missing values in the dataset. The data is clean and suitable for analysis.
+
+ML Suitability:
+The dataset is suitable for machine learning after encoding categorical variables.
+
+Conclusion:
+The dataset is well-structured and ready for ML tasks.
